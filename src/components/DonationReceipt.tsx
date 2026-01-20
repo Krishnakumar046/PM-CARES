@@ -1,11 +1,11 @@
 function DonationReceipt() {
   const receiptData = {
-    receiptNumber: 'PMCARES/Web/202601201210206278',
-    donationDate: '20-Jan-2026',
-    transactionOrderNumber: '202601201210206278',
-    name: 'Mr Karthikeyan Ramalingam',
-    amount: 'INR 1.00',
-    panNumber: 'CRXXXXXXX8K'
+    receiptNumber: "PMCARES/Web/202601201210206278",
+    donationDate: "20-Jan-2026",
+    transactionOrderNumber: "202601201210206278",
+    name: "Mr Karthikeyan Ramalingam",
+    amount: "INR 2,50,000.00",
+    panNumber: "CRXXXXXXX8K",
   };
 
   return (
