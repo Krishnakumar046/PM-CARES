@@ -12,7 +12,7 @@ function Header() {
             <img
               src={`${import.meta.env.BASE_URL}images/logopmcare.png`}
               alt="Logo"
-              className="ml-5"
+              className="ml-7"
             />
           </div>
 
