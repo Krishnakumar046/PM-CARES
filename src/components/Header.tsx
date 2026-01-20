@@ -1,5 +1,5 @@
-import { Menu, Flag } from 'lucide-react';
-import { useState } from 'react';
+import { Menu } from "lucide-react";
+import { useState } from "react";
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
